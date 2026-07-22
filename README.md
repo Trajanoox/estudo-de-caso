@@ -17,4 +17,6 @@ O seguinte estudo de caso teve por objetivo revisar e fixar alguns tópicos teó
 
 ## Passo a passo
 
-![image](https://github.com...)
+![image](https://github.com/Trajanoox/estudo-de-caso/blob/main/USB_Incident_Post-Mortem_-_Slide_2.png?raw=true)
+
+
